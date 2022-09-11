@@ -1,4 +1,6 @@
 # Sergey Mukhachev
+### Junior Frontend Developer
+---
 
 ## Contacts
 * **Address:** Nizhny Novgorod
@@ -32,9 +34,11 @@ My goal is to do what I love programming - professionally. My previous career wa
 * Windows OS, Linux
 
 ## Code examples
-'''function multiply(a, b){
+```javascript
+function multiply(a, b){
   return (a * b)
-}'''
+}
+```
 
 ## Work experience
 
